@@ -248,6 +248,16 @@ header{
     margin: 15px 35px 0 0;
 }
 
+.aboutme-selektor-arraws{
+   margin-left: 20px;
+}
+
+.aboutme-selektor-arraws:hover{
+    color: #7b685a;
+    cursor: pointer;
+
+}
+
 
     /* SECTION CARD */
 
@@ -378,7 +388,10 @@ background: linear-gradient(225deg, rgba(51,23,3,1) 35%, rgba(204,145,143,1) 100
     width: 83%;                     /* тепер лінія виїде плавнл */
 }
 
+.button_card{
+    text-decoration: none;
 
+}
 
 
 
